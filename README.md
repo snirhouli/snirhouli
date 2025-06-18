@@ -40,7 +40,7 @@ With a passion for building robust systems and automating processes, I specializ
 ## 📂 Projects
 
 Feel free to explore my public repositories below. Many of them focus on practical tools, automation scripts, and open-source contributions to the FiveM and web development communities.
-- **currently working on a private fivem server . (private repository)
+- **currently working on a private fivem server . (private repository)**
 
 ---
 
