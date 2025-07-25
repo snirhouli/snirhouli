@@ -30,7 +30,7 @@ Welcome to my GitHub profile.
 
 ## 📫 Contact
 
-- 📧 Email: Snir_houli@microsoft.co.il
+- 📧 Email: Snirhouli999@gmail.com
 - 🔗 LinkedIn: SOON 
 - 🌍 Website / Portfolio: SOON
 
