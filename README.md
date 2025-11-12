@@ -16,7 +16,7 @@ With a passion for building robust systems and automating processes, I specializ
 
 - 🎓 **Education**: M.Sc. in Software Engineering  
 - 🏢 **Current Role**: Microsoft Employee – Azure Division (Department of Security)  
-- 🧠 **Interests**: Cybersecurity, system automation, cloud architecture, and gaming systems (FiveM scripting)
+- 🧠 **Interests**: Cybersecurity, system automation, cloud architecture, and gaming systems 
 
 ---
 
