@@ -6,7 +6,7 @@ Welcome to my GitHub profile.
 
 ## 👨‍💻 About Me
 
-I am a software engineer with a **Master of Science (M.Sc.) in Software Engineering**, currently working as a **Microsoft Azure Security Engineer** (DOS Division).
+I am a software engineer 
 
 With a passion for building robust systems and automating processes, I specialize in scripting, backend development, and system-level programming. I actively contribute to development communities and enjoy solving real-world technical challenges.
 
@@ -14,8 +14,8 @@ With a passion for building robust systems and automating processes, I specializ
 
 ## 💼 Professional Background
 
-- 🎓 **Education**: M.Sc. in Software Engineering  
-- 🏢 **Current Role**: Microsoft Employee – Azure Division (Department of Security)  
+- 🎓 **Education**: 
+- 🏢 **Current Role**: 
 - 🧠 **Interests**: Cybersecurity, system automation, cloud architecture, and gaming systems 
 
 ---
